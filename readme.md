@@ -317,5 +317,16 @@ setInterval(() => {
 
 ## Acknowledgement   
 Special Thanks To 'https://restcountries.com/v3.1/all' To Organise this API in Such a WAy.   
-## LICENSE   
+## LICENSE    
+
+
+This project is licensed under the Mozilla Public License Version 2.0 (MPL-2.0).
+
+© 2024 Md Rakibul Hasan
+
+For details, please refer to the [LICENSE](LICENSE) file in the root of this repository.
+
+The MPL-2.0 License is a permissive open-source license that allows you to freely use, modify, and distribute this software. By contributing to or using this project, you agree to the terms and conditions of the MPL-2.0 License.
+
+
 
